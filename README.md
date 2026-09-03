@@ -1,3 +1,5 @@
+# Hard fork of https://github.com/devilAPI/abletonPatcher rolled back to f86ba27 before the author vandalized their project.
+
 # abletonPatcher - What is this?
 
 This is an open-source implementation of the R2R patch and `R2RLIVE.dll` of Ableton Live, written in Python.
