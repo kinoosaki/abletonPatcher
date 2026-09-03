@@ -56,9 +56,6 @@ You can download the Ableton Installers directly from Ableton's servers. I made 
 3. Retry
 4. It should work now. Then copy your Ableton exe back to the folder you got it from.
 
-## Support
-I do offer support on Discord (https://discord.gg/akswvyUk) and on Reddit (@devilAPIOnReddit)
-
 ## Credits
 
 The Implementation of the KeyGen was made by [rufoa](https://github.com/rufoa). Go leave a star on his Git page!#
